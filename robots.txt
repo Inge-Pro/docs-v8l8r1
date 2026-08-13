@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-gfw0qx.kujang138.shop/sitemap.xml
